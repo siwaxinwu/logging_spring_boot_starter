@@ -1,2 +1,3 @@
 功能：
 自定义的方法执行计算时间的starter，在hello_maven项目中测试ok
+通过Github和JitPack发布自定义starter
