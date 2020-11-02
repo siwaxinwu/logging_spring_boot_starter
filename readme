@@ -1,3 +1,5 @@
 功能：
 自定义的方法执行计算时间的starter，在hello_maven项目中测试ok
 通过Github和JitPack发布自定义starter
+spring-boot-starter-XX 这种是官方提供的jar包
+xx-spring-boot-starter 这种是自定义的jar包

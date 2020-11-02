@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * description：
+ * description：监控方法运行时间
  * author：dingyawu
  * date：created in 23:58 2020/9/11
  * history:
